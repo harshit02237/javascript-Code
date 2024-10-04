@@ -1,0 +1,11 @@
+div{
+          height: 100px;
+          width: 150px;
+          background-color: aquamarine;
+          text-align: inherit;
+          border: black;
+          text-align: center;
+          font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+          position: sticky
+          ;
+}
